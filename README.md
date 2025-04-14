@@ -26,29 +26,29 @@ It uses a standard Gamepad "360" type:
 - Right Bumper: Increase Object index +1
 
 ### Move object
-- Left Stick: Push the object in the joystick direction. Speed of displacement can be control by the amount of deviation.
-- Left Stick Button press: Set object to center (0,0) position.
-- Left Stick + Button: Moving the joystick with button pressed set object position.
-- D-Pad: Push the object pricesely by tiny steps. On Dashboard, you can set the amount of "fine step".
+- Left Stick: (SLOW RELATIVE MOTION) Move the object in the joystick direction. Speed of displacement can be control by the amount of deviation.
+- Left Stick Button press: (RESET) Set object to center (0,0) position. 
+- Left Stick + Button: (FAST DISPLACEMENT) Position the object to absolute joystick position.
+- D-Pad: (FINE MOVE) Move the object precisely by fine steps. On Dashboard, you can set the amount of "fine step".
 
 ### En-Space reverb send
-- Right Stick up/down: Increase or decrease the send level.
-- Right Stcik Button: Mute send (toggle).
+- Right Stick up/down: (REVERB) Increase or decrease the send level.
+- Right Stick Button: (DRY) Mute send (toggle).
 
 ### Spread
-- Right Stick left/right: set the object spread.
+- Right Stick left/right: (SPREAD) set the object spread.
 
 ### Temporary mute
-- B Face Button: Mute object when pressed.
+- B Face Button: (CUT) Mute object when pressed.
 
 ### Circlizer
 Those are giving more control to play with, by playing with azimuth animation and distance.
 When you use it, the original object position (controlled by Left joystick/D-Pad) is now the center of a circle.
-- Left Trigger: Radius of the circle (distance from center).
-- Right Trigger: Speed of rotation
-- Y Face Button: Direction of rotation
-- X Face Button: Hold triggers. If you press it, you can release the triggers and the parameters are kept.
-- A Face Button: Tap tempo. in "hold" of distance, you can adapt the speed by taping a tempo.
+- Left Trigger: (DISTANCE) Radius of the circle (distance from center).
+- Right Trigger: (SPEED) Rotation frequency
+- Y Face Button: (CW/CCW) Direction of rotation
+- X Face Button: (HOLD) If you press it, you can release the triggers and the parameters are kept. Pressing it again and object stop turning and return to center position, and you can use the Distance and Speed triggers again.
+- A Face Button: (TAP) Tap tempo and reset. In "hold" of a Distance, you can adapt the Speed by taping a tempo.
 
 ### Pair
 Couple a second object with the seleted one. It uses N+1 object. 
