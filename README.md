@@ -53,8 +53,8 @@ When you use it, the original object position (controlled by Left joystick/D-Pad
 ### Pair
 Couple a second object with the seleted one. It uses N+1 object. 
 You have from now fours modes : Copy (same position for both objects), Mirror X only, Mirror Y only, Mirror X and Y.
-- Start Button: De/activate pairing.
-- Back Button: Choose mode. Press sequentially to go thru modes.
+- Start Button: (PAIR) De/activate pairing.
+- Back Button: (MODE) Choose pairing mode. Press sequentially to go thru modes.
 
 
 ## More to come
