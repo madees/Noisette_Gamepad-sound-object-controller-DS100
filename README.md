@@ -48,7 +48,7 @@ When you use it, the original object position (controlled by Left joystick/D-Pad
 - Right Trigger: (SPEED) Rotation frequency
 - Y Face Button: (CW/CCW) Direction of rotation
 - X Face Button: (HOLD) If you press it, you can release the triggers and the parameters are kept. Pressing it again and object stop turning and return to center position, and you can use the Distance and Speed triggers again.
-- A Face Button: (TAP) Tap tempo and reset. In "hold" of a Distance, you can adapt the Speed by taping a tempo.
+- A Face Button: (TAP) Tap tempo and reset (using Right Trigger will set the "phase" initial position). In "hold" of a Distance, you can adapt the Speed by taping a tempo.
 
 ### Pair
 Couple a second object with the seleted one. It uses N+1 object. 
