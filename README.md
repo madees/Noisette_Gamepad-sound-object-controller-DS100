@@ -5,7 +5,6 @@ A simple interface to act as as Soundscape sound object controller, as "side-car
 
 ## Tested with
 Chataigne v1.9.24 and DS100 Module 2.4.1
-04/04: Still work in progress
 
 ## How to setup
 1. Connect a gamepad (USB, bluetooth ... according to its manual).
