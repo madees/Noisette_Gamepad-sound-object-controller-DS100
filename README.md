@@ -16,7 +16,7 @@ Chataigne v1.9.24 and DS100 Module 2.4.1
 7. In DS100 module OSC output setting, set the IP to control port of DS100 device.
 
 ## Features
-It uses a standard Gamepad "360" type: 
+It uses a standard Gamepad "360" Xinput type: 
 ![](https://github.com/madees/Noisette_Gamepad-sound-object-controller-DS100/blob/main/360_controller.png)
 
 ### Change controlled object index #
